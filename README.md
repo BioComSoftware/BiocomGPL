@@ -1,0 +1,1 @@
+Just a library containing (eventually) small, useful tidbits either written by me or modified from other public code. As much as possible I try to credit original authors. If I've missed someone please feel free to contact me at Mike.Rightmire@BiocomSoftware.com. 
